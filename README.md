@@ -5,16 +5,7 @@ Je suis un étudiant en 3ème année en mathématiques et informatique, passionn
 ## Compétences
 
 - Langages de programmation : C/C++, Python, HTML, CSS, Assembleur (TASM x86)
-- Technologies : Cybersécurité, Analyse de vulnérabilités, Sécurité des réseaux
-
-## Projets récents
-
-### Projet : 
-Password manager écrit en c       :->                                              statut: en cours de developpement
-
-exif_tool  en python              :->                                              statut: en cours
-
-system de detection de vuln(xss, sql injection) en pyth  :->                      statut: pas débuté 
+- Technologies : Cybersécurité, Analyse de vulnérabilités web, Programmation, réseau.
 
 
 ## Comment me contacter
