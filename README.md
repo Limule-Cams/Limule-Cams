@@ -1,11 +1,5 @@
-### Hi there 👋
+### Salut, je suis  Limule-Cams! 👋
 
-<!--
-**Limule-Cams/Limule-Cams** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-# Salut, je suis  Limule-Cams!
 
 Je suis un étudiant en 3ème année en mathématiques et informatique, passionné par la cybersécurité.
 
