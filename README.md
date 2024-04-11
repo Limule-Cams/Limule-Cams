@@ -1,10 +1,10 @@
 ### Salut, je suis  Limule-Cams! 👋
 
-Je suis un étudiant en 3ème année en mathématiques et informatique, passionné par la cybersécurité.
+Je suis un étudiant  en mathématiques et informatique, passionné par la cybersécurité.
 
 ## Compétences
 
-- Langages de programmation : C/C++, Python, HTML, CSS, Assembleur (TASM x86)
+- Langages de programmation : C/C++, java, bash Python, HTML, CSS, Assembleur (TASM x86)
 - Technologies : Cybersécurité, Analyse de vulnérabilités web, Programmation, réseau.
 
 
