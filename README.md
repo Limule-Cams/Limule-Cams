@@ -1,6 +1,7 @@
 ### Salut, je suis  0_c@ms~! 👋
 
-Je suis un étudiant  en mathématiques et informatique, passionné par la cybersécurité.
+Je suis un étudiant  en  informatique, passionné par la cybersécurité  
+Avec un grand intérêt pour du pwn et du reverse
 
 ## Compétences
 
